@@ -69,5 +69,4 @@
 - API access is protected using JWT
 - UI access is restricted by cookie auth and [Authorize] filters
 - Passwords are hashed using the PasswordHasher
-
-- 
+ 
